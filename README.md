@@ -15,7 +15,7 @@ Explore Bikeshare Data
 Excel files containing data from the three cities mentioned above were used. The findings were presented in html file.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Credit to tutorialspoint -  https://www.tutorialspoint.com/r/r_bar_charts.htmIt's 
 
 ### Author Information
 	
